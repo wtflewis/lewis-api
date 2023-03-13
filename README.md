@@ -3,4 +3,4 @@
  
  # **Kullanım**
 
-https://lewisapi.glitch.me/api/status/:DISCORD ID --> İle API'ye ulaşabilirsiniz
+https://lewisapi.glitch.me/api/status/:DISCORDID --> İle API'ye ulaşabilirsiniz
